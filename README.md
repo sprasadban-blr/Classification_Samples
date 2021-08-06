@@ -1,1 +1,11 @@
 Samples tried out on classification techniques
+  - Linear Regression
+  - Logistic Regression
+  - Decision Tree
+  - Support Vector Machine (SVM)
+  - Naive bayes classifier
+  - KNN (K-Nearest Neighbour)
+  - Random Forest
+  - Dimensionality Reduction Algorithm (PCA)
+  - GBM (Gradient Boosting Model)
+  - XGBoost (eXtreme Gradient Boosting)
